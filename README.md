@@ -32,7 +32,6 @@ Elige uno de los temas propuestos y comienza a desarrollar tu propia historia...
 - *Están pasando cosas raras*. Cita: [Fallo de Sistema 279, Radio3 2017](http://blog.rtve.es/fallodesistema/2017/09/279-est%C3%A1n-pasando-cosas-raras-.html)
 
 # Historia R - Robot & IA 
-
 ![La imparable marcha de los robots](https://imagessl0.casadellibro.com/a/l/t1/50/9788491045250.jpg)
 
 
@@ -74,3 +73,5 @@ Elige uno de los temas propuestos y comienza a desarrollar tu propia historia...
 - Neopalabras: post-verdad.. y [neologismos tecnológicos](https://jackmoreno.com/2014/10/23/100-ejemplos-de-neologismos/) 
 
 - Neo-personajes: Geek, nerd, cyborg, ... y otras cosas
+
+Hola!! que tal
